@@ -5,4 +5,5 @@
     <string name="first_name">First Name</string>
     <string name="main_title">Built with Android</string>
     <string name="main_header">IceBreaker</string>
+    <string name="button_get_question">Get a rondom question</string>
 </resources>
