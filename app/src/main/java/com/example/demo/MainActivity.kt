@@ -26,6 +26,7 @@ class MainActivity : AppCompatActivity() {
         }
 
         binding.btnSubmit.setOnClickListener {  // container for actions when submit is pressed
+            // for fetching the names from the view (from edit texts)
             Log.d(tag, "Submit button was pressed.")
             val firstName = binding.txtFirstName
             val lastName = binding.txtLastName
